@@ -24,7 +24,7 @@
 ### [Use This Sheet](https://isfs2-ua.github.io/landing-usethisheet/)
 > Una aplicación web para compartir apuntes y crear networking entre universitarios y empresas.  
 - **Tecnologías**: Supabase, Vue.
-- **Destacado**: El proyecto se presentó a los premios Impulso 2025 del Parque Científico de Alicante.
+- **Destacado**: Proyecto finalista de la modalidad Start-Up en los Premios Impulso 2025 del Parque Científico de Alicante.
 
 ---
 
