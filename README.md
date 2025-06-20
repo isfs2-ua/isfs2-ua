@@ -6,7 +6,7 @@
 
 🎓 Estudiante de **Ingeniería Informática** en la Universidad de Alicante  
 🛠 Especializándome en **Ingeniería del Software**  
-🌱 Actualmente cursando **Técnicas Avanzadas de Especificación Software**, **Gestión de Calidad Software**, **Lenguajes y Paradigmas de Programación** y **Programación y Estructuras de Datos**.
+🌱 Actualmente cursando **Sistemas Distribuidos**, **Diseño de Bases de Datos** y **Lenguajes y Paradigmas de Programación**.
 
 ---
 
