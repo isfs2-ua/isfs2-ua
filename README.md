@@ -35,8 +35,12 @@
 > Un sistema de simulación de red de cargadores para coches eléctricos, usando componentes distribuidos, con aplicaciones para gestión, cargadores y clientes, además de integración con APIs de terceros.
 - **Tecnologías**: Apache Kafka, Python, Sockets securizados, cifrado Fernet, stack web (HTML+CSS+JS), API REST, Docker.
 
+### 🎌📖 TomoLog (Gestor de colección de manga)
+> Aplicación básica de gestión de colección de mangas, con capacidad de dar reseñas, ver perfiles de otros usuarios, y con un ranking de coleccionistas.
+- **Tecnologías**: Pocketbase + Azure, Vue.
+
 ### 🏐 SportHub (Tienda Deportiva)
-> Tienda de artículos deportivos desarrollada para la asignatura de Ingeniería Web
+> Tienda de artículos deportivos desarrollada para la asignatura de Ingeniería Web.
 - **Tecnologías**: MySQL, Java, Maven, Springboot, Vue, Docker.
 
 ---
