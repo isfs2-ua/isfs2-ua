@@ -6,12 +6,7 @@
 
 🎓 Estudiante de **Ingeniería Informática** en la Universidad de Alicante  
 🛠 Especializándome en **Ingeniería del Software**  
-🌱 Actualmente cursando:
-- **Gestión de Proyectos Informáticos**
-- **Seguridad en el Diseño de Software**
-- **Diseño de Sistemas Software**
-- **Metodologías y Tecnologías de Integración de Sistemas**
-- **Planificación y Pruebas de Sistemas Software**
+🌱 Actualmente cursando mi último año de carrera y desarrollando mi TFG
 
 ---
 
@@ -42,6 +37,10 @@
 ### 🏐 SportHub (Tienda Deportiva)
 > Tienda de artículos deportivos desarrollada para la asignatura de Ingeniería Web.
 - **Tecnologías**: MySQL, Java, Maven, Springboot, Vue, Docker.
+
+### 💼 Unijobs
+> Plataforma de búsqueda de empleo y conexión con empresas diseñada para estudiantes universitarios.
+- **Tecnologías**: PHP, Laravel.
 
 ---
 
