@@ -6,7 +6,7 @@
 
 🎓 Estudiante de **Ingeniería Informática** en la Universidad de Alicante  
 🛠 Especializándome en **Ingeniería del Software**  
-🌱 Actualmente cursando mi último año de carrera y desarrollando mi TFG
+🌱 Actualmente cursando mi último año de carrera y desarrollando mi TFG, **RaceShelf**
 
 ---
 
