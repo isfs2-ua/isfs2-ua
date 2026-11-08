@@ -22,6 +22,14 @@ Un proyecto que hicimos para facilitar que los universitarios compartan apuntes 
 
 Lo desarrollamos con **Vue y Supabase** y acabó siendo finalista en la modalidad *Start-Up* de los **Premios Impulso 2025** del Parque Científico de Alicante. Una de las experiencias más interesantes que me he llevado de la carrera.
 
+### 📝 [Plantilla de memorias de prácticas](https://github.com/isfs2-ua/Plantilla-Practicas-GII)
+
+Después de hacer unas cuantas memorias para la carrera, pensé que vendría bien tener una base reutilizable y no empezar de cero cada vez.
+
+Es una **plantilla en Markdown para generar memorias en PDF** con Pandoc y LuaLaTeX. Incluye portadas personalizadas para las asignaturas del Grado en Ingeniería Informática de la UA, ejemplos para estructurar el contenido y una comprobación automática con GitHub Actions. No es una plantilla oficial de la universidad, pero quizá le ahorre tiempo a alguien más.
+
+`Markdown` · `Pandoc` · `LuaLaTeX` · `GitHub Actions`
+
 ## Otras cosas que he hecho
 
 La universidad también ha dejado unos cuantos repositorios. Algunos fueron más ambiciosos que otros, pero de todos saqué algo.
