@@ -1,57 +1,79 @@
-# Hola, soy Isma
+<div align="center">
 
-Estudio Ingeniería Informática en la Universidad de Alicante. Me gusta programar, cacharrear con Linux y meterme en proyectos que empiezan con un «esto podría estar bien» y acaban ocupándome bastante más tiempo del previsto.
+<img src="./assets/isma-header.svg" alt="Hola, soy Isma. Software, open source y motorsport." width="100%" />
 
-Me interesa especialmente el desarrollo de software, pero también todo lo que hay alrededor: el software libre, los servidores propios, los videojuegos y entender cómo funcionan las cosas por dentro. Este GitHub es, sobre todo, un sitio donde guardar lo que voy haciendo.
+[![GitHub](https://img.shields.io/badge/@isfs2--ua-181b24?style=flat-square&logo=github&logoColor=white)](https://github.com/isfs2-ua)
+![Universidad de Alicante](https://img.shields.io/badge/Universidad_de_Alicante-181b24?style=flat-square&labelColor=384d52&color=181b24)
+![Linux](https://img.shields.io/badge/Linux_daily_driver-181b24?style=flat-square&logo=linux&logoColor=c7ff73)
+![Open source](https://img.shields.io/badge/Open_source_enjoyer-181b24?style=flat-square&logo=opensourceinitiative&logoColor=c7ff73)
 
-## En qué ando metido
+</div>
 
-### 🏁 [RaceShelf](https://raceshelf.com)
+Estudio **Ingeniería Informática** en la Universidad de Alicante, con especial interés en la **Ingeniería del Software** y el desarrollo web. Me gusta programar, cacharrear con Linux y empezar proyectos que iban a ser «una cosa rápida» y acaban teniendo su propio repositorio, documentación y crisis de diseño.
 
-Me gustan el motorsport y las aplicaciones para llevar un registro de lo que ves, así que pensé: ¿por qué no juntar las dos cosas?
+Por aquí encontrarás desde aplicaciones completas hasta experimentos, herramientas y trabajos de clase. No todo está terminado, pero casi siempre he aprendido algo por el camino.
 
-**RaceShelf** es una web para guardar las carreras que has visto, puntuarlas, escribir reseñas y descubrir otras. La idea es algo parecido a Letterboxd, pero para carreras de automovilismo y motociclismo. También incluye calendario de eventos y funciones sociales.
+## 🏁 En el garaje
 
-Es mi TFG y, a la vez, uno de esos proyectos a los que les dedico tiempo porque de verdad me apetece verlos crecer.
+<a href="https://raceshelf.com"><img src="./assets/raceshelf.svg" alt="RaceShelf: tu historial de carreras, a tu manera" width="100%" /></a>
+
+**[RaceShelf](https://raceshelf.com)** es mi TFG y un proyecto que me hace especial ilusión: una especie de *Letterboxd del motorsport* para registrar carreras vistas, puntuarlas, escribir reseñas, crear listas y descubrir qué ver después. Con calendario de eventos y funciones sociales para compartir la afición.
 
 `Vue 3` · `TypeScript` · `Supabase` · `PostgreSQL` · `Tailwind CSS`
 
-### 📚 [Use This Sheet](https://isfs2-ua.github.io/landing-usethisheet/)
+## 📦 Más proyectos con historia
 
-Un proyecto que hicimos para facilitar que los universitarios compartan apuntes y conecten con otros estudiantes y empresas.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://isfs2-ua.github.io/landing-usethisheet/"><img src="./assets/use-this-sheet.svg" alt="Use This Sheet: apuntes para compartir" width="100%" /></a>
+<h3><a href="https://isfs2-ua.github.io/landing-usethisheet/">📚 Use This Sheet</a></h3>
+<p>Una plataforma para compartir apuntes y conectar a estudiantes universitarios con otros estudiantes y empresas. La desarrollamos con <strong>Vue y Supabase</strong> y fue finalista en la modalidad <em>Start-Up</em> de los <strong>Premios Impulso 2025</strong> del Parque Científico de Alicante.</p>
+<sub>Vue · Supabase</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/isfs2-ua/Plantilla-Practicas-GII"><img src="./assets/plantilla-practicas.svg" alt="Plantilla de prácticas: Markdown a PDF" width="100%" /></a>
+<h3><a href="https://github.com/isfs2-ua/Plantilla-Practicas-GII">📝 Plantilla de prácticas</a></h3>
+<p>Una base reutilizable para dejar de pelearse con el formato de las memorias de la carrera: escribes en <strong>Markdown</strong> y generas el <strong>PDF</strong> con Pandoc y LuaLaTeX. Incluye portadas para asignaturas del GII de la UA y comprobaciones con GitHub Actions. No es una plantilla oficial.</p>
+<sub>Markdown · Pandoc · LuaLaTeX · GitHub Actions</sub>
+</td>
+</tr>
+</table>
 
-Lo desarrollamos con **Vue y Supabase** y acabó siendo finalista en la modalidad *Start-Up* de los **Premios Impulso 2025** del Parque Científico de Alicante. Una de las experiencias más interesantes que me he llevado de la carrera.
+## 🧰 Mi caja de herramientas
 
-### 📝 [Plantilla de memorias de prácticas](https://github.com/isfs2-ua/Plantilla-Practicas-GII)
+<div align="center">
 
-Después de hacer unas cuantas memorias para la carrera, pensé que vendría bien tener una base reutilizable y no empezar de cero cada vez.
+<img src="https://skillicons.dev/icons?i=vue,ts,tailwind,supabase,postgres,python,docker,git,linux,github&theme=dark" alt="Vue, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Python, Docker, Git, Linux y GitHub" />
 
-Es una **plantilla en Markdown para generar memorias en PDF** con Pandoc y LuaLaTeX. Incluye portadas personalizadas para las asignaturas del Grado en Ingeniería Informática de la UA, ejemplos para estructurar el contenido y una comprobación automática con GitHub Actions. No es una plantilla oficial de la universidad, pero quizá le ahorre tiempo a alguien más.
+</div>
 
-`Markdown` · `Pandoc` · `LuaLaTeX` · `GitHub Actions`
+No soy de casarme con una tecnología, pero disfruto especialmente desarrollando aplicaciones web, aprendiendo cómo encajan las piezas y buscando la manera de automatizar tareas repetitivas. Y sí, a veces paso más tiempo configurando Linux que usándolo.
 
-## Otras cosas que he hecho
-
-La universidad también ha dejado unos cuantos repositorios. Algunos fueron más ambiciosos que otros, pero de todos saqué algo.
+## 🎓 De los repositorios de clase
 
 <details>
-<summary>Ver proyectos de clase</summary>
+<summary><strong>Desplegar otros proyectos universitarios</strong> 👀</summary>
 
-| Proyecto | Qué era | Tecnologías |
-| --- | --- | --- |
-| **EVCharging Network** | Simulación de una red distribuida de cargadores eléctricos. | Python, Kafka, Docker, sockets, API REST |
-| **TomoLog** | Una web para gestionar colecciones de manga, reseñas y perfiles. | Vue, PocketBase, Azure |
+<br />
+
+| Proyecto | De qué iba | Tecnologías |
+| :--- | :--- | :--- |
+| **EVCharging Network** | Simulación distribuida de una red de cargadores eléctricos. | Python, Kafka, Docker, sockets, REST |
+| **TomoLog** | Gestión de colecciones de manga, reseñas y perfiles. | Vue, PocketBase, Azure |
 | **SportHub** | Tienda online de artículos deportivos. | Java, Spring Boot, MySQL, Vue, Docker |
-| **Unijobs** | Plataforma de empleo orientada a universitarios. | PHP, Laravel |
+| **Unijobs** | Plataforma de empleo para universitarios. | PHP, Laravel |
 
 </details>
 
-## Fuera del código
+## 💿 Cuando no estoy programando
 
-Uso Linux a diario y disfruto bastante ajustando el escritorio, probando programas y montando servicios por mi cuenta. También me interesan la preservación digital, los videojuegos y las herramientas que permiten tener más control sobre nuestros dispositivos y datos.
-
-Siempre que puedo, prefiero usar y apoyar **software libre**. Me gusta poder mirar cómo está hecho algo, modificarlo y compartirlo.
+Me interesan el **software libre**, el *self-hosting*, la preservación digital, los videojuegos y el motorsport. Me gusta entender cómo funcionan las cosas por dentro y tener control sobre mis dispositivos y datos; de ahí que siempre haya algún servicio que instalar o un escritorio que retocar.
 
 ---
 
-No todo lo que subo aquí está terminado, ni tiene por qué estarlo. A veces solo quería probar una idea y ver hasta dónde llegaba.
+<div align="center">
+
+<sub>Este GitHub es un cajón de proyectos, experimentos e ideas que se me han ido de las manos. Y así está bien. ✦</sub>
+
+</div>
