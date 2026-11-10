@@ -1,120 +1,91 @@
 <div align="center">
 
-<a href="https://github.com/isfs2-ua"><img src="./assets/isma-header.svg" width="100%" alt="Hola, soy Isma: software, Linux, motorsport y side quests" /></a>
+<img src="./assets/isma-header.svg" width="100%" alt="Hola, soy Isma. Software, Linux y motorsport." />
 
-<br />
+**Estudiante de Ingeniería Informática · Universidad de Alicante · Ingeniería del Software**
 
-**Estudiante de Ingeniería Informática · Universidad de Alicante · Especialidad en Ingeniería del Software**
-
-[![RaceShelf](https://img.shields.io/badge/🏁_RACESHELF-VISITAR_WEB-ff946a?style=for-the-badge&labelColor=27243d)](https://raceshelf.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-VER_REPOS-ccff7b?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=27243d)](https://github.com/isfs2-ua?tab=repositories)
-[![Linux](https://img.shields.io/badge/DAILY_DRIVER-LINUX-91f1e3?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=27243d)](https://kernel.org)
+[**Mis repositorios**](https://github.com/isfs2-ua?tab=repositories) &nbsp;·&nbsp; [**RaceShelf**](https://raceshelf.com)
 
 </div>
-
-### ✦ Sobre mí
-
-Soy de los que empiezan un proyecto pensando *«esto se hace en una tarde»* y terminan montándole una base de datos, una guía de estilo y un despliegue automático.
-
-Me interesa especialmente el **desarrollo web**, pero también el **software libre**, los servidores propios, los videojuegos y todo lo que implique averiguar cómo funciona algo por dentro. Este perfil es una mezcla de proyectos serios, experimentos y cosas que simplemente me apetecía construir.
-
----
-
-## 🚦 NOW BUILDING: RaceShelf
-
-<a href="https://raceshelf.com"><img src="./assets/raceshelf.svg" width="100%" alt="RaceShelf: Every race has a story" /></a>
-
-<div align="center">
-
-### [🏎️ raceshelf.com](https://raceshelf.com)
-
-**El Letterboxd que me habría gustado tener para el motorsport.**
-
-</div>
-
-Una plataforma para **registrar carreras vistas, puntuarlas, escribir reseñas, crear listas y descubrir nuevas competiciones**. Incluye un calendario de eventos y funciones sociales. Abarca disciplinas como F1, MotoGP, WEC y más.
-
-Es mi **Trabajo de Fin de Grado**, pero también un proyecto personal al que quiero seguir dando vida.
-
-<div align="center">
-
-![Vue](https://img.shields.io/badge/Vue_3-35495e?style=flat-square&logo=vuedotjs&logoColor=4fc08d)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
-
-</div>
-
-## 🗃️ MORE STUFF I'VE BUILT
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://isfs2-ua.github.io/landing-usethisheet/"><img src="./assets/use-this-sheet.svg" width="100%" alt="Use This Sheet" /></a>
-<h3 align="center"><a href="https://isfs2-ua.github.io/landing-usethisheet/">📚 Use This Sheet</a></h3>
-<p>Una plataforma para compartir apuntes y conectar a estudiantes universitarios con otras personas y empresas. La desarrollamos con Vue y Supabase.</p>
-<p>🏆 <strong>Finalista en la modalidad Start-Up de los Premios Impulso 2025</strong> del Parque Científico de Alicante.</p>
+<td width="61%" valign="top">
+<h3>👋 Un poco sobre mí</h3>
+<p>Me gusta programar, cacharrear con Linux y meterme en proyectos que empiezan con un <em>«esto podría estar bien»</em> y acaban ocupándome bastante más tiempo del previsto.</p>
+<p>Me interesa especialmente el desarrollo de software, pero también el software libre, los servidores propios y entender cómo funcionan las cosas por dentro. Este GitHub es, sobre todo, un sitio donde guardar lo que voy haciendo.</p>
 </td>
-<td width="50%" valign="top">
-<a href="https://github.com/isfs2-ua/Plantilla-Practicas-GII"><img src="./assets/plantilla-practicas.svg" width="100%" alt="Plantilla de memorias de prácticas" /></a>
-<h3 align="center"><a href="https://github.com/isfs2-ua/Plantilla-Practicas-GII">📝 Plantilla de prácticas</a></h3>
-<p>Porque escribir la memoria de una práctica ya lleva suficiente tiempo como para perderlo peleando con el formato.</p>
-<p>Una plantilla no oficial para generar <strong>PDF desde Markdown</strong> con Pandoc y LuaLaTeX. Incluye portadas de asignaturas de Ingeniería Informática de la UA y validación con GitHub Actions.</p>
+<td width="39%" valign="top">
+<h3>✳️ Qué me interesa</h3>
+<p>⌨️ Desarrollo de software<br />🐧 Linux y software libre<br />🗄️ Servidores y self-hosting<br />🎮 Videojuegos y preservación digital<br />🏁 Motorsport</p>
 </td>
 </tr>
 </table>
 
-## 🛠️ THE TOOLBOX
-
-<div align="center">
-
-**Cosas con las que construyo, experimento o me peleo de vez en cuando**
-
-<img src="https://skillicons.dev/icons?i=vue,ts,js,html,css,tailwind,python,java,postgres,supabase,docker,git,github,linux,figma&perline=8&theme=dark" alt="Vue, TypeScript, JavaScript, HTML, CSS, Tailwind, Python, Java, PostgreSQL, Supabase, Docker, Git, GitHub, Linux y Figma" />
-
-</div>
-
-<br />
+## 🏁 Proyectos destacados
 
 <table>
 <tr>
-<td width="33%" align="center">🌐 <strong>BUILD</strong><br /><sub>Webs, interfaces, APIs y bases de datos</sub></td>
-<td width="33%" align="center">🐧 <strong>TINKER</strong><br /><sub>Linux, Docker y servicios propios</sub></td>
-<td width="33%" align="center">🧪 <strong>EXPLORE</strong><br /><sub>Prototipos, automatización e ideas raras</sub></td>
+<td width="60%" valign="middle">
+<a href="https://raceshelf.com"><img src="./assets/raceshelf.svg" width="100%" alt="RaceShelf, plataforma para registrar y reseñar carreras de motorsport" /></a>
+</td>
+<td width="40%" valign="middle">
+<a href="https://commons.wikimedia.org/wiki/File:Autodromo_Nazionale_di_Monza,_first_chicane_-_Flickr_-_crash71100.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Autodromo_Nazionale_di_Monza%2C_first_chicane_-_Flickr_-_crash71100.jpg/1280px-Autodromo_Nazionale_di_Monza%2C_first_chicane_-_Flickr_-_crash71100.jpg" width="100%" alt="Fotografía real de la primera chicane del circuito de Monza" /></a>
+<sub>Foto real: <a href="https://commons.wikimedia.org/wiki/File:Autodromo_Nazionale_di_Monza,_first_chicane_-_Flickr_-_crash71100.jpg">crash71100 / Wikimedia Commons</a> · CC0</sub>
+</td>
 </tr>
 </table>
 
-## 📂 THE UNIVERSITY ARCHIVES
+### [RaceShelf](https://raceshelf.com) · El Letterboxd del motorsport
 
-<details>
-<summary><strong>📼 Abrir la carpeta de proyectos de clase</strong></summary>
+Una plataforma para **registrar carreras vistas, puntuarlas, escribir reseñas, crear listas y descubrir otras**. Incluye calendario de eventos y funciones sociales para compartir la afición por disciplinas como F1, MotoGP, WEC y más. Es mi **Trabajo de Fin de Grado**, pero también un proyecto que quiero seguir desarrollando.
 
-<br />
+`Vue 3` · `TypeScript` · `Supabase` · `PostgreSQL` · `Tailwind CSS`
 
-| Proyecto | Qué hice | Stack |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://isfs2-ua.github.io/landing-usethisheet/"><img src="./assets/use-this-sheet.svg" width="100%" alt="Use This Sheet: plataforma para compartir apuntes" /></a>
+<h3><a href="https://isfs2-ua.github.io/landing-usethisheet/">Use This Sheet</a></h3>
+<p>Una plataforma para compartir apuntes universitarios y conectar estudiantes. La desarrollamos con Vue y Supabase. <strong>Finalista en la modalidad Start-Up de los Premios Impulso 2025</strong> del Parque Científico de Alicante.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/isfs2-ua/Plantilla-Practicas-GII"><img src="./assets/plantilla-practicas.svg" width="100%" alt="Plantilla para generar memorias de prácticas desde Markdown" /></a>
+<h3><a href="https://github.com/isfs2-ua/Plantilla-Practicas-GII">Plantilla de prácticas</a></h3>
+<p>Una plantilla no oficial para escribir las memorias de Ingeniería Informática de la UA en <strong>Markdown</strong> y generar el PDF con Pandoc y LuaLaTeX. Incluye portadas y comprobaciones con GitHub Actions.</p>
+</td>
+</tr>
+</table>
+
+## 🛠️ Tecnologías
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vue,ts,js,html,css,tailwind,python,java,postgres,supabase,docker,git,github,linux,figma&amp;perline=8&amp;theme=dark" alt="Vue, TypeScript, JavaScript, HTML, CSS, Tailwind, Python, Java, PostgreSQL, Supabase, Docker, Git, GitHub, Linux y Figma" />
+
+</div>
+
+## 📁 Más proyectos
+
+También hay por aquí proyectos de clase, prácticas y alguna idea que se quedó a medias. Algunos ejemplos:
+
+| Proyecto | De qué va | Tecnologías |
 | :--- | :--- | :--- |
 | **EVCharging Network** | Simulación de una red distribuida de cargadores eléctricos. | Python · Kafka · Docker · Sockets · REST |
 | **TomoLog** | Colecciones de manga, reseñas y perfiles. | Vue · PocketBase · Azure |
 | **SportHub** | Tienda online de artículos deportivos. | Java · Spring Boot · MySQL · Vue · Docker |
 | **Unijobs** | Plataforma de empleo para universitarios. | PHP · Laravel |
 
-</details>
+[**Ver todos los repositorios →**](https://github.com/isfs2-ua?tab=repositories)
 
-## 🎮 OFFLINE MODE (más o menos)
+## 🐧 Linux, software libre y más
 
-Cuando no estoy escribiendo código, probablemente estoy **ajustando alguna configuración de Linux**, jugando a algo, siguiendo una carrera o montando algún servicio que podría haber dejado tranquilamente en la nube.
-
-Me interesan la **preservación digital**, el *self-hosting* y las herramientas que te permiten tener control sobre tus propios datos. Siempre que puedo, prefiero utilizar y apoyar software libre.
+Uso Linux a diario y disfruto ajustando el escritorio, probando programas y montando servicios por mi cuenta. Me interesan el *self-hosting*, la preservación digital y las herramientas que permiten tener control sobre los propios datos. Siempre que puedo, prefiero utilizar y apoyar **software libre**.
 
 ---
 
 <div align="center">
 
-### ✳️ Thanks for stopping by!
-
-*No todo lo que hay aquí está terminado. Algunas ideas solo necesitaban un sitio donde existir.*
-
-<sub>made with ☕, demasiadas pestañas abiertas y alguna que otra carrera de fondo</sub>
+<sub>No todo lo que hay aquí está terminado. Algunas ideas solo necesitaban un sitio donde existir.</sub>
 
 </div>
