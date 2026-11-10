@@ -1,6 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" role="img" aria-label="RaceShelf. Every race has a story.">
-<defs><linearGradient id="rbg" x2="1" y2="1"><stop stop-color="#ff7b59"/><stop offset=".65" stop-color="#fdad72"/><stop offset="1" stop-color="#ffcf7c"/></linearGradient><pattern id="checks" width="56" height="56" patternUnits="userSpaceOnUse"><rect width="28" height="28" fill="#202034"/><rect x="28" y="28" width="28" height="28" fill="#202034"/></pattern><clipPath id="clip"><rect width="1200" height="440" rx="18"/></clipPath></defs><g clip-path="url(#clip)"><rect width="1200" height="440" fill="url(#rbg)"/><path d="M820-70L1380 420" stroke="#ffedcb" stroke-width="180" opacity=".27"/><path d="M990-80L1490 350" stroke="#212436" stroke-width="18" opacity=".12"/>
-<rect x="0" y="0" width="1200" height="48" fill="#211e32"/><text x="43" y="30" fill="#fff4e3" font-family="monospace" font-weight="bold" font-size="17" letter-spacing="2">01 / FEATURED PROJECT</text><text x="1019" y="30" fill="#ffe7c7" font-family="monospace" font-size="17">RACE WEEK</text>
-<text x="47" y="162" font-size="96" font-weight="900" letter-spacing="-6" font-family="DejaVu Sans,Arial,sans-serif" fill="#201e31">RACE</text><text x="47" y="263" font-size="107" font-weight="900" letter-spacing="-7" font-family="DejaVu Sans,Arial,sans-serif" fill="#fff7df">SHELF<tspan fill="#232032">.</tspan></text><text x="52" y="312" fill="#29283b" font-family="monospace" font-size="22" font-weight="bold">EVERY RACE HAS A STORY.</text>
-<rect x="53" y="350" width="347" height="48" rx="24" fill="#252336"/><text x="77" y="381" fill="#fff1dc" font-family="monospace" font-size="17">LOG IT. RATE IT. RELIVE IT.</text>
-<g transform="translate(650 86)"><path d="M20 235C146 270 65 67 217 76S406 20 474-29" fill="none" stroke="#28263a" stroke-width="74" stroke-linecap="round" stroke-linejoin="round"/><path d="M20 235C146 270 65 67 217 76S406 20 474-29" fill="none" stroke="#ffe5b9" stroke-width="5" stroke-linecap="round" stroke-dasharray="26 18"/><circle cx="20" cy="235" r="15" fill="#f6f2df" stroke="#29263a" stroke-width="7"/><circle cx="217" cy="76" r="10" fill="#c9ff77"/><path d="M312 126l32-20 25 29-33 22z" fill="#ddff79"/><path d="M332 131l60-31" stroke="#242235" stroke-width="8"/></g><g transform="translate(995 300) rotate(-9)"><rect width="175" height="116" fill="url(#checks)" stroke="#202034" stroke-width="8"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 455" role="img" aria-label="RaceShelf: tu registro de carreras de motorsport">
+<defs><pattern id="check" width="48" height="48" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="#111018"/><rect x="24" y="24" width="24" height="24" fill="#111018"/></pattern><pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.5" fill="#3b110e" opacity=".3"/></pattern><clipPath id="cut"><rect width="700" height="455" rx="12"/></clipPath></defs>
+<g clip-path="url(#cut)">
+<rect width="700" height="455" fill="#ff5836"/>
+<path d="M0 0H700V455H0Z" fill="url(#dots)"/>
+<path d="M-40 312L730 58" stroke="#ff805b" stroke-width="82" opacity=".65"/>
+<path d="M475 0H700V171H475Z" fill="url(#check)" transform="rotate(-8 580 85)"/>
+<rect x="23" y="23" width="357" height="39" fill="#151119"/>
+<text x="39" y="49" font-family="DejaVu Sans Mono,monospace" font-size="17" font-weight="700" fill="#f8f5ea">01 / PROYECTO DESTACADO</text>
+<text x="26" y="178" font-family="DejaVu Sans,Arial,sans-serif" font-size="97" font-weight="900" letter-spacing="-7" fill="#f8f5ea">Race</text>
+<text x="26" y="279" font-family="DejaVu Sans,Arial,sans-serif" font-size="104" font-weight="900" letter-spacing="-8" fill="#111018">Shelf.</text>
+<path d="M33 306H510" stroke="#151119" stroke-width="6"/>
+<text x="32" y="354" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="800" fill="#151119">Tu registro de carreras</text>
+<text x="32" y="386" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="800" fill="#151119">de motorsport.</text>
+<rect x="28" y="412" width="201" height="30" rx="4" fill="#f8f5ea"/>
+<text x="42" y="433" font-family="DejaVu Sans Mono,monospace" font-size="15" font-weight="700" fill="#151119">RACESHELF.COM  ↗</text>
+</g></svg>
