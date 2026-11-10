@@ -24,17 +24,8 @@
 
 ## 🏁 Proyectos destacados
 
-<table>
-<tr>
-<td width="60%" valign="middle">
+
 <a href="https://raceshelf.com"><img src="./assets/raceshelf.svg" width="100%" alt="RaceShelf, plataforma para registrar y reseñar carreras de motorsport" /></a>
-</td>
-<td width="40%" valign="middle">
-<a href="https://commons.wikimedia.org/wiki/File:Autodromo_Nazionale_di_Monza,_first_chicane_-_Flickr_-_crash71100.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Autodromo_Nazionale_di_Monza%2C_first_chicane_-_Flickr_-_crash71100.jpg/1280px-Autodromo_Nazionale_di_Monza%2C_first_chicane_-_Flickr_-_crash71100.jpg" width="100%" alt="Fotografía real de la primera chicane del circuito de Monza" /></a>
-<sub>Foto real: <a href="https://commons.wikimedia.org/wiki/File:Autodromo_Nazionale_di_Monza,_first_chicane_-_Flickr_-_crash71100.jpg">crash71100 / Wikimedia Commons</a> · CC0</sub>
-</td>
-</tr>
-</table>
 
 ### [RaceShelf](https://raceshelf.com) · El Letterboxd del motorsport
 
